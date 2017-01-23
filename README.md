@@ -1,2 +1,6 @@
 # hello-world
-cs 464 assignment 3
+
+This is an assignment for cs 464!
+
+Stuff about myself:
+I like cats & coffees and teas & rainy days & mossy forests!
